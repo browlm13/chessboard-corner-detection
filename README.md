@@ -4,4 +4,4 @@
 ![Point Selection](examples/aruco_plane_example_gif_3.gif)
 
 ## Project user selected points onto plane created by arcuo markers
-![Aruco Plane](examples/aruco_plane_example_gif_1.gif)
+![Aruco Plane](examples/corner_selection.gif)
