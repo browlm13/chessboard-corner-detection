@@ -1,0 +1,9 @@
+README.md
+setup.py
+frames/__init__.py
+frames/utils.py
+frames.egg-info/PKG-INFO
+frames.egg-info/SOURCES.txt
+frames.egg-info/dependency_links.txt
+frames.egg-info/requires.txt
+frames.egg-info/top_level.txt
